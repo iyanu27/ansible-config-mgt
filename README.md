@@ -1,2 +1,2 @@
 # ansible-config-mgt
-This is where i save my ansible scripts kkk
+This is where i save ansible scripts
